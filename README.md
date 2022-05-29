@@ -10,3 +10,4 @@ This project is a replica of Google timer
 - [x] User can start, stop and reset the timer.
 - [x] User can toggle between the timer and the stopwatch.
 - [x] The timer will not be increment twice if its already clicked
+# timer-assignment
